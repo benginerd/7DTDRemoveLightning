@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="RemoveLightning" />
+		<Description value="Remove lightning from blood moons" />
+		<Website value="https://github.com/benginerd" />
+		<Author value="Benginerd" />
+		<Version value="1.0" compat="A20"/>
+	</ModInfo>
+</xml>
